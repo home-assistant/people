@@ -9,3 +9,4 @@ homeassistant
 Landrash
 pvizeli
 robbiet480
+thomasloven
