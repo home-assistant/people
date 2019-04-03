@@ -10,6 +10,7 @@ frenck
 homeassistant
 kellerza
 Landrash
+MartinHjelmare
 pvizeli
 robbiet480
 rohankapoorcom
