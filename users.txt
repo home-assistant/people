@@ -1,5 +1,7 @@
 acockburn
+andrewsayre
 awarecan
+bachya
 balloob
 balloobbot
 dale3h
@@ -10,6 +12,7 @@ frenck
 homeassistant
 kellerza
 Landrash
+MartinHjelmare
 pvizeli
 robbiet480
 rohankapoorcom
@@ -27,3 +30,4 @@ Swamp-Ig
 dmulcahey
 hunterjm
 adminiuga
+cgarwood
