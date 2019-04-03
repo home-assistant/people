@@ -1,5 +1,6 @@
 acockburn
 andrewsayre
+andrey-git
 armills
 arsaboo
 awarecan
@@ -12,13 +13,16 @@ fabaff
 fbradyirl
 frenck
 homeassistant
+kane610
 kellerza
 Landrash
 ludeeus
 MartinHjelmare
+michaelarnauts
 pvizeli
 robbiet480
 rohankapoorcom
+rytilahti
 thomasloven
 danielhiversen
 cgtobi
@@ -35,4 +39,5 @@ hunterjm
 cgarwood
 turbokongen
 iantrich
-adminiuga
+Adminiuga
+skalavala
