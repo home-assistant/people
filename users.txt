@@ -2,6 +2,7 @@ acockburn
 balloob
 balloobbot
 dale3h
+emontnemery
 fabaff
 frenck
 homeassistant
