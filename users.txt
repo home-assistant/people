@@ -14,6 +14,7 @@ frenck
 homeassistant
 kellerza
 Landrash
+ludeeus
 MartinHjelmare
 pvizeli
 robbiet480
