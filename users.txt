@@ -15,3 +15,4 @@ danielhiversen
 cgtobi
 syssi
 dgomes
+magicus
