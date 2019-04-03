@@ -6,6 +6,7 @@ emontnemery
 fabaff
 frenck
 homeassistant
+kellerza
 Landrash
 pvizeli
 robbiet480
