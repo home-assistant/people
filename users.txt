@@ -17,6 +17,7 @@ fbradyirl
 frenck
 homeassistant
 jaharkes
+jeradM
 kane610
 kellerza
 Landrash
